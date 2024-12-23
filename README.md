@@ -21,7 +21,7 @@ As An Independent Developer, I Am Passionate About Crafting Meaningful Projects 
  <p align="center">
     <a >
     <br />
-    <img src="https://skillicons.dev/icons?i=github,python,c,pycharm,opencv,flask,pytorch,tensorflow,html,css,js,androidstudio,linux,kali,ubuntu,windows"/>
+    <img src="https://skillicons.dev/icons?i=github,python,c,pycharm,opencv,flask,pytorch,tensorflow,html,css,androidstudio,linux,kali,ubuntu,windows"/>
     </a>
  </p>
  <h2 align="center">
@@ -39,7 +39,7 @@ As An Independent Developer, I Am Passionate About Crafting Meaningful Projects 
           <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=42Wor&layout=compact&theme=transparent&hide_border=true&hide=ShaderLab,HLSL,astro,MDX" alt="42Wor Stats" />
        </td>
     </tr>
- </table>https://maazwaheed.netlify.app/com/https://maazwaheed.netlify.app/com/https://maazwaheed.netlify.app/com/
+ </table>
  <table style="border:none;margin:0 auto" align="center">
     <tr style="border:none;margin:0 auto" align="center">
        <td style="border:none;">
