@@ -3,6 +3,9 @@
 </div>
 
 <h1 align="center">Hello 👋, I'm Maaz Waheed</h1>
+<p align="center">
+    👋 Hello! I'm Maaz, a student passionate about the intersection of software development and machine learning.  From crafting intuitive web applications to exploring the fascinating world of AI, I'm driven by a desire to build impactful solutions. As a firm believer in continuous learning, I'm always eager to dive into new technologies and contribute to the open-source community.  Let's connect and explore the future of tech together!
+</p>
 
 <div align="center">
     <img src="Assets/your-banner-image.gif" alt="Banner" width="80%" />
