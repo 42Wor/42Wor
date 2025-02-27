@@ -116,7 +116,7 @@
             <img src="https://github-readme-stats.vercel.app/api?username=42Wor&hide_title=true&include_all_commits=false&count_private=true&theme=transparent&hide_border=true" alt="GitHub Stats Card" />
         </td>
         <td>
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=42Wor&layout=compact&theme=transparent&hide_border=true&hide=ShaderLab,HLSL,astro,MDX" alt="Top Languages" />
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=42Wor&layout=compact" alt="Top Languages" />
         </td>
     </tr>
     <tr>
