@@ -105,7 +105,7 @@
 <hr>
 
 <h2 align="center">📊 GitHub Stats</h2>
-  <img src="profile-3d-contrib/profile-night-green.svg" alt="Trophy" align="middle"  />  
+  <img src="profile-3d-contrib/profile-night-rainbow.svg" alt="Trophy" align="middle"  />  
 <p align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=42Wor&theme=transparent&hide_border=true" alt="GitHub Streak" />
 </p>
