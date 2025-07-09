@@ -4,27 +4,22 @@
 
 <h1 align="center">Hello 👋, I'm Maaz Waheed</h1>
 
-<div align="center">
-    <img src="Assets/your-banner-image.gif" alt="Banner" width="80%" />
-</div>
-
 <br />
 
 <p align="center">
-    👋 Hello! I'm Maaz, a student passionate about the intersection of software development and machine learning.  From crafting intuitive web applications to exploring the fascinating world of AI (especially Computer Vision and NLP), I'm driven by a desire to build impactful solutions. As a firm believer in continuous learning, I'm always eager to dive into new technologies and contribute to the open-source community. Let's connect and explore the future of tech together!
+"Hi, I'm Maaz! I'm a student who loves coding and machine learning. I build software projects and constantly explore new tech. Let's connect!"
 </p>
 
 <br />
 
 <p align="center">
-    <a href="https://42Wor.github.io" target="_blank">
+    <a href="https://maaz-dev.vercel.app/" target="_blank">
         <img src="https://img.shields.io/badge/Website-Visit%20My%20Website-blue?style=for-the-badge&logo=internet" alt="Website" />
     </a>
      
-    <a href="https://maazwaheed.netlify.app/portfolio/" target="_blank">
+    <a href="https://maaz-dev.vercel.app/portfolio/" target="_blank">
         <img src="https://img.shields.io/badge/Portfolio-Check%20Out%20My%20Portfolio-orange?style=for-the-badge&logo=briefcase" alt="Portfolio" />
-    </a>
-</p>
+    </a> 
 
 <hr>
 
@@ -156,7 +151,7 @@
 </p>
 
 <p align="center">
-    📧 Email: <a href="mailto:maazwaheed@gmail.com">maazwaheed@gmail.com</a>  |  🌐 Website Support: <a href="https://maazwaheed.com/Support" target="_blank">maazwaheed.com/Support</a>
+    📧 Email: <a href="mailto:maazwaheed@gmail.com">maazwaheed@gmail.com</a>  
 </p>
 
 <hr>
