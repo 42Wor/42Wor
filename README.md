@@ -1,161 +1,65 @@
 <div align="center">
-    <img src="https://profile-counter.glitch.me/42Wor/count.svg?"  alt="Profile Visitor Count" />
+  <img src="https://profile-counter.glitch.me/42Wor/count.svg?" alt="Profile views" />
+
+  <h1>Hi, I'm Maaz Waheed 👋</h1>
+  <p>Student developer focused on AI, LLMs, and Machine Learning — building useful things.</p>
+
+  <a href="https://maaz-dev.vercel.app/">
+    <img src="https://img.shields.io/badge/Website-maaz--dev.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Website" />
+  </a>
+  <a href="https://maaz-dev.vercel.app/portfolio/">
+    <img src="https://img.shields.io/badge/Portfolio-Projects-0ea5e9?style=for-the-badge" alt="Portfolio" />
+  </a>
 </div>
 
-<h1 align="center">Hello 👋, I'm Maaz Waheed</h1>
+---
 
-<br />
-
-<p align="center">
-"Hi, I'm Maaz! I'm a student who loves coding and machine learning. I build software projects and constantly explore new tech. Let's connect!"
+### 🛠 Tech I use
+<p>
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,numpy,pandas,opencv,python,c,js,html,css,flask,nodejs,jupyter,androidstudio,git,github,linux,ubuntu,arch,kali,windows,rust&perline=11" />
 </p>
 
-<br />
+---
 
-<p align="center">
-    <a href="https://maaz-dev.vercel.app/" target="_blank">
-        <img src="https://img.shields.io/badge/Website-Visit%20My%20Website-blue?style=for-the-badge&logo=internet" alt="Website" />
-    </a>
-     
-    <a href="https://maaz-dev.vercel.app/portfolio/" target="_blank">
-        <img src="https://img.shields.io/badge/Portfolio-Check%20Out%20My%20Portfolio-orange?style=for-the-badge&logo=briefcase" alt="Portfolio" />
-    </a> 
+### 🚀 Featured — AI, LLM & ML
+- [OmniRegress](https://github.com/42Wor/OmniRegress) — The fast, modern Python & Rust library for all your regression adventures. A comprehensive toolkit for regression analysis.
+- 🤖 [ChatAPI — AI Chat Assistant](https://github.com/MIbnEKhalid/ChatAPI) — Modern AI chat app powered by Google Gemini API with user management, conversation history, and admin dashboard. Team project.
+- [Gas Plant Predictive Maintenance Model](https://github.com/42Wor/Gas-plant-failure-predictor) — LSTM-based RUL prediction for proactive maintenance and failure prevention.
+- [Regression](https://github.com/42Wor/Regression) — Clear, from-scratch linear regression implementation to illustrate fundamentals.
 
-<hr>
+### 🧰 Dev Tools & Web
+- [MBKAUTHEPY](https://github.com/42Wor/mbkauthepy) — Secure, extensible authentication system for Flask. Ported from Node.js for multi-language full‑stack support.
+  <br>
+  <a href="https://pypi.org/project/mbkauthepy/">
+    <img src="https://img.shields.io/pypi/v/mbkauthepy?label=PyPI&logo=pypi&logoColor=white" alt="PyPI" />
+  </a>
+  <img src="https://img.shields.io/badge/License-MPL%202.0-green" alt="License: MPL 2.0" />
+  <img src="https://img.shields.io/pypi/pyversions/mbkauthepy" alt="Python versions" />
 
-<h2 align="center">🛠️ Technologies & Skills</h2>
+<details>
+  <summary>More projects</summary>
 
-<p align="center">
-    <code><img height="25" src="https://skillicons.dev/icons?i=python" alt="Python" title="Python"></code>
-    <code><img height="25" src="https://skillicons.dev/icons?i=c" alt="C" title="C"></code>
-    <code><img height="25" src="https://skillicons.dev/icons?i=html" alt="HTML5" title="HTML5"></code>
-    <code><img height="25" src="https://skillicons.dev/icons?i=css" alt="CSS3" title="CSS3"></code>
-    <code><img height="25" src="https://skillicons.dev/icons?i=flask" alt="Flask" title="Flask"></code>
-    <code><img height="25" src="https://skillicons.dev/icons?i=pytorch" alt="PyTorch" title="PyTorch"></code>
-    <code><img height="25" src="https://skillicons.dev/icons?i=tensorflow" alt="TensorFlow" title="TensorFlow"></code>
-    <code><img height="25" src="https://skillicons.dev/icons?i=opencv" alt="OpenCV" title="OpenCV"></code>
-    <code><img height="25" src="https://skillicons.dev/icons?i=github" alt="GitHub" title="GitHub"></code>
-    <code><img height="25" src="https://skillicons.dev/icons?i=linux" alt="Linux" title="Linux"></code>
-    <code><img height="25" src="https://skillicons.dev/icons?i=ubuntu" alt="Ubuntu" title="Ubuntu"></code>
-    <code><img height="25" src="https://skillicons.dev/icons?i=kali" alt="Kali Linux" title="Kali Linux"></code>
-    <code><img height="25" src="https://skillicons.dev/icons?i=windows" alt="Windows" title="Windows"></code>
-    <code><img height="25" src="https://skillicons.dev/icons?i=pycharm" alt="PyCharm" title="PyCharm"></code>
-    <code><img height="25" src="https://skillicons.dev/icons?i=androidstudio" alt="Android Studio" title="Android Studio"></code>
-</p>
+- [AI Colab Notebooks](https://github.com/42Wor/Colab-Notebooks-Developed) — DL experiments in TensorFlow/Jupyter.
+- [M-DEV Portfolio](https://github.com/42Wor/M-DEV) — Responsive personal site.
+- [M-DEV Chat](https://github.com/42Wor/M-DEV-Chat) — Real‑time chat with Socket.IO.
+- [maazDB (Python)](https://github.com/42Wor/maazDB_python) — Tiny NoSQL library for Python.
+- [maazDB (JavaScript)](https://github.com/42Wor/maazDB_js) — Lightweight NoSQL for JS/Node.
+- [Rust Learning Journey](https://github.com/42Wor/Rust-I-learn) — Notes and mini‑projects in Rust.
+</details>
 
-<hr>
+---
 
-<h2 align="center">Projects & Featured Work</h2>
-
-<p align="center">
-    Here are some of the projects I'm proud to have worked on:
-</p>
-
-<br />
-
+### 📊 GitHub Stats
 <div align="center">
-
-<h3><a href="https://github.com/42Wor/Colab-Notebooks-Developed">AI Colab Notebooks</a></h3>
-<p>A collection of Google Colab notebooks exploring various AI concepts and models, including image classification and deep learning experiments.</p>
-<code><img height="20" src="https://skillicons.dev/icons?i=python" alt="Python" title="Python"></code> <code><img height="20" src="https://skillicons.dev/icons?i=tensorflow" alt="TensorFlow" title="TensorFlow"></code> <code><img height="20" src="https://skillicons.dev/icons?i=jupyter" alt="Jupyter Notebook" title="Jupyter Notebook"></code>
-
-<br />
-
-<h3><a href="https://github.com/42Wor/M-DEV">Personal Portfolio Website</a></h3>
-<p>Designed and developed a responsive personal portfolio website to showcase my skills, projects, and experiences. Built with HTML, CSS, and JavaScript for a dynamic user experience.</p>
-<code><img height="20" src="https://skillicons.dev/icons?i=html" alt="HTML" title="HTML"></code> <code><img height="20" src="https://skillicons.dev/icons?i=css" alt="CSS" title="CSS"></code> <code><img height="20" src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" title="JavaScript"></code>
-
-<br />
-
-<h3><a href="https://github.com/42Wor/M-DEV-Chat">M-DEV Chat Application</a></h3>
-<p>Developed a real-time chat application, potentially integrated with the M-DEV portfolio website, allowing for interactive communication.  Utilizes web technologies for a seamless chat experience.</p>
-<code><img height="20" src="https://skillicons.dev/icons?i=html" alt="HTML" title="HTML"></code> <code><img height="20" src="https://skillicons.dev/icons?i=css" alt="CSS" title="CSS"></code> <code><img height="20" src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" title="JavaScript"></code> <code><img height="20" src="https://skillicons.dev/icons?i=socketio" alt="Socket.IO" title="Socket.IO"></code>
-
-<br />
-
-<h3><a href="https://github.com/42Wor/maazDB_python">maazDB Python Library</a></h3>
-<p>A lightweight NoSQL database library implemented in Python, designed for simple data storage and retrieval within Python applications. Focuses on ease of integration and basic database functionalities.</p>
-<code><img height="20" src="https://skillicons.dev/icons?i=python" alt="Python" title="Python"></code> <code><img height="20" src="https://skillicons.dev/icons?i=database" alt="Database" title="Database"></code> <code><img height="20" src="https://skillicons.dev/icons?i=pypi" alt="PyPI" title="PyPI"></code>
-
-<br />
-
-<h3><a href="https://github.com/42Wor/maazDB_js">maazDB Javascript Library</a></h3>
-<p>A JavaScript version of maazDB, providing NoSQL database capabilities as a library for JavaScript environments. Suitable for client-side or Node.js applications needing simple data management within their codebase.</p>
-<code><img height="20" src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" title="JavaScript"></code> <code><img height="20" src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" title="Node.js"></code> <code><img height="20" src="https://skillicons.dev/icons?i=npm" alt="npm" title="npm"></code> <code><img height="20" src="https://skillicons.dev/icons?i=database" alt="Database" title="Database"></code>
-
-<br />
-
-<h3>Server Component for maazDB (Private Repository)</h3>
-<p>A server-side component (private repository) designed to support the maazDB ecosystem. It likely handles data persistence, API endpoints, and other backend functionalities for applications utilizing the maazDB libraries.</p>
-<code><img height="20" src="https://skillicons.dev/icons?i=python" alt="Python" title="Python"></code> <code><img height="20" src="https://skillicons.dev/icons?i=flask" alt="Flask" title="Flask"></code> <code><img height="20" src="https://skillicons.dev/icons?i=server" alt="Server" title="Server"></code>
-
-<br />
-
-<h3><a href="https://github.com/42Wor/Rust-I-learn">Rust Learning Journey</a></h3>
-<p>A repository documenting my exploration and learning process of the Rust programming language. Contains various projects and code snippets created during my Rust learning journey.</p>
-<code><img height="20" src="https://skillicons.dev/icons?i=rust" alt="Rust" title="Rust"></code>
-
+  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=42Wor&theme=transparent&hide_border=true" alt="GitHub Streak" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=42Wor&layout=compact&theme=transparent&hide_border=true" alt="Top Languages" />
 </div>
 
-<hr>
+---
 
-<h2 align="center">📊 GitHub Stats</h2>
-  <img src="profile-3d-contrib/profile-night-rainbow.svg" alt="Trophy" align="middle"  />  
-<p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=42Wor&theme=transparent&hide_border=true" alt="GitHub Streak" />
-</p>
+### ✉️ Connect
+- Website: https://maaz-dev.vercel.app/
+- Email: [maazwaheed@gmail.com](mailto:maazwaheed@gmail.com)
+- GitHub: https://github.com/42Wor
 
-<<table>
-    <tr>
-        <td>
-            <img src="https://github-readme-stats.vercel.app/api?username=42Wor&hide_title=true&include_all_commits=false&count_private=true&theme=transparent&hide_border=true" alt="GitHub Stats Card" />
-        </td>
-        <td>
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=42Wor&layout=compact&theme=transparent&hide_border=true" alt="Top Languages" />
-        </td>
-    </tr>
-    <tr>
-        <td colspan="2">
-            <img src="https://github-readme-activity-graph.vercel.app/graph?username=42Wor&theme=github-dark&hide_border=true" alt="Activity Graph" />
-        </td>
-    </tr>
-</table>
-
-<hr>
-
-<h2 align="center">🏆 GitHub Trophies</h2>
-<p align="center">
-    <img src="https://github-trophies.vercel.app/?username=42Wor&theme=algolia&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" align="middle"  />  
-</p>
-
-<hr>
-
-<h2 align="center"> ✉️ Connect With Me</h2>
-
-<p align="center">
-    <a href="YOUR_YOUTUBE_LINK" target="_blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="40" width="40" />
-    </a>
-    <a href="YOUR_INSTAGRAM_LINK" target="_blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="40" width="40" />
-    </a>
-    <a href="YOUR_LINKEDIN_LINK" target="_blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="40" />
-    </a>
-    <a href="https://github.com/42Wor" target="_blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg" alt="GitHub" height="40" width="40" />
-    </a>
-    <a href="YOUR_TWITTER_LINK" target="_blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="40" width="40" />
-    </a>
-</p>
-
-<p align="center">
-    📧 Email: <a href="mailto:maazwaheed@gmail.com">maazwaheed@gmail.com</a>  
-</p>
-
-<hr>
-
-<p align="center">
-    <b>Let's connect!</b>  I'm always open to discussing new technologies, collaborating on projects, or exploring opportunities in the tech world.  Feel free to reach out!
-</p>
+<sub>Open to collaborations and learning together. Feel free to reach out!</sub>
