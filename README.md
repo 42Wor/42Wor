@@ -58,8 +58,9 @@
 ---
 <div align="center">
 
-  ![alt text](Assets/gif3.gif)
   ![alt text](Assets/gif2.gif)
+  ![alt text](Assets/gif3.gif)
+
 
 </div>
 ---
