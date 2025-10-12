@@ -29,25 +29,25 @@
 
 ### 🧰 Dev Tools & Web
 - [MBKAUTHEPY](https://github.com/42Wor/mbkauthepy) — Secure, extensible authentication system for Flask. Ported from Node.js for multi-language full‑stack support.
-  <br>
-  <a href="https://pypi.org/project/mbkauthepy/">
-    <img src="https://img.shields.io/pypi/v/mbkauthepy?label=PyPI&logo=pypi&logoColor=white" alt="PyPI" />
-  </a>
-  <img src="https://img.shields.io/badge/License-MPL%202.0-green" alt="License: MPL 2.0" />
-  <img src="https://img.shields.io/pypi/pyversions/mbkauthepy" alt="Python versions" />
+
+- [WebPortal](https://github.com/MIbnEKhalid/WebPortal) Portal MBK Tech Studio is a comprehensive web application built with Node.js, Express, and Handlebars. It provides a modern dashboard interface with robust user management, security features, markdown editing capabilities, AI integration, and comprehensive analytics. The application uses PostgreSQL databases with Redis for session management and includes advanced security monitoring.
+
+
 
 <details>
   <summary>More projects</summary>
-
-- [AI Colab Notebooks](https://github.com/42Wor/Colab-Notebooks-Developed) — DL experiments in TensorFlow/Jupyter.
+  
 - [M-DEV Portfolio](https://github.com/42Wor/M-DEV) — Responsive personal site.
 - [M-DEV Chat](https://github.com/42Wor/M-DEV-Chat) — Real‑time chat with Socket.IO.
 - [maazDB (Python)](https://github.com/42Wor/maazDB_python) — Tiny NoSQL library for Python.
 - [maazDB (JavaScript)](https://github.com/42Wor/maazDB_js) — Lightweight NoSQL for JS/Node.
 - [Rust Learning Journey](https://github.com/42Wor/Rust-I-learn) — Notes and mini‑projects in Rust.
+- [NotifyMe](https://github.com/42Wor/NotifyMe) — android application and Notification
+ 
 </details>
 
 ---
+![alt text](profile-3d-contrib/profile-night-view.svg)
 
 ### 📊 GitHub Stats
 <div align="center">
@@ -55,6 +55,13 @@
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=42Wor&layout=compact&theme=transparent&hide_border=true" alt="Top Languages" />
 </div>
 
+---
+<div align="center">
+
+  ![alt text](Assets/gif3.gif)
+  ![alt text](Assets/gif2.gif)
+
+</div>
 ---
 
 ### ✉️ Connect
