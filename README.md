@@ -23,7 +23,7 @@
 
 ### 🚀 Featured — AI, LLM & ML
 - [OmniRegress](https://github.com/42Wor/OmniRegress) — The fast, modern Python & Rust library for all your regression adventures. A comprehensive toolkit for regression analysis.
-- 🤖 [ChatAPI — AI Chat Assistant](https://github.com/MIbnEKhalid/ChatAPI) — Modern AI chat app powered by Google Gemini API with user management, conversation history, and admin dashboard. Team project.
+- [ChatAPI — AI Chat Assistant](https://github.com/MIbnEKhalid/ChatAPI) — Modern AI chat app powered by Google Gemini API with user management, conversation history, and admin dashboard. Team project.
 - [Gas Plant Predictive Maintenance Model](https://github.com/42Wor/Gas-plant-failure-predictor) — LSTM-based RUL prediction for proactive maintenance and failure prevention.
 - [Regression](https://github.com/42Wor/Regression) — Clear, from-scratch linear regression implementation to illustrate fundamentals.
 
