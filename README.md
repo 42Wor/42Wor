@@ -1,7 +1,7 @@
 <div align="center">
-  <img src="https://profile-counter.glitch.me/42Wor/count.svg?" alt="Profile views" />
+  
 
-  <h1>Hi, I'm Maaz Waheed 👋</h1>
+  <h1>Hi, I'm Maaz Waheed </h1>
   <p>Student developer focused on AI, LLMs, and Machine Learning — building useful things.</p>
 
   <a href="https://maaz-dev.vercel.app/">
